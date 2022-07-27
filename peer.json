@@ -1,0 +1,21 @@
+{
+    "count": 3,
+    "self": "yanzez",
+    "weights": [{
+            "name": "Yanze Zheng",
+            "userid": "yanzez",
+            "points": 20
+        },
+        {
+            "name": "Shan Qing",
+            "userid": "sqing",
+            "points": 20
+        },
+        {
+            "name": "Lei Du",
+            "userid": "duleid",
+            "points": 20
+        }
+    ],
+    "comments": ""
+}
