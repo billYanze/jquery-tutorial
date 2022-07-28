@@ -1,7 +1,7 @@
 ## Introduction:
 JQuery is a lightweight, free and open source JS function library, which is mainly used to simplify JS code
 
-Lightweight: the degree to which the code or project depends on the technology. The lower the degree of dependence, the lighter the technology. On the contrary, the higher the degree of dependence, the heavier the technology. Lightweight technology framework is recommended
+Lightweight: The degree to which the code or project relies on technology. The less dependent, the lighter the technology. A lightweight technical framework is recommended.
 
 ### Tutorials:
 I use two tutorials
